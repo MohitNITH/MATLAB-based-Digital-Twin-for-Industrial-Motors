@@ -69,7 +69,7 @@ The simulation provides clear visual comparisons between normal and faulty state
 ### Phase Loss Fault
 A phase loss fault shows a dramatic drop in motor RPM and a significant increase in temperature.
 
-![Phase Loss Comparison](phase_loss_comparison.png)
+![Phase Loss Comparison](fault_comparisions/phase_loss_comparison.png)
 
 ### Bearing Damage (Inner Race)
 Inner race bearing damage introduces periodic, high-frequency components into the vibration signal and increases operating temperature.
