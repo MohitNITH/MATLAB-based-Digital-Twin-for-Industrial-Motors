@@ -74,12 +74,12 @@ A phase loss fault shows a dramatic drop in motor RPM and a significant increase
 ### Bearing Damage (Inner Race)
 Inner race bearing damage introduces periodic, high-frequency components into the vibration signal and increases operating temperature.
 
-![Bearing Damage Inner Race Comparison](bearing_damage_inner_race_comparison.png)
+![Bearing Damage Inner Race Comparison](fault_comparisions/bearing_damage_inner_race_comparison.png)
 
 ### Mechanical Unbalance
 Mechanical unbalance significantly increases the amplitude of vibrations at the motor's running speed (1x RPM).
 
-![Mechanical Unbalance Comparison](mechanical_unbalance_comparison.png)
+![Mechanical Unbalance Comparison](fault_comparisions/mechanical_unbalance_comparison.png)
 
 ## Acknowledgements
 
